@@ -1,0 +1,60 @@
+SR Ticket Template for VMware Support Requests
+
+
+1)	Provide Skyline Organization Name and Account ID:
+
+	Skyline Organization Name – 
+	Skyline Account ID - 
+	Entitlement Accounts -
+
+2)	Please provide the name(s) of the impacted object(s):
+
+	vCenter FQDN and IP address: 
+	ESXi Host FQDN and IP address: 
+	Datacenter Name: 
+	Cluster Name: 
+	Datastore Name: 
+	Virtual Machine Name: 
+
+3)	Is this support request for a product that is supported by LogAssist (yes/no)?
+
+4)	Has the impacted vCenter/host/VM been rebooted during troubleshooting (yes/no)?
+
+5)	Did the ESXi host experience a kernel panic/PSOD (yes/no)?
+
+6)	Are logs in this environment rotating more often than once every 3 days?
+
+7)	Did anything change in the environment prior to the issue occurring?
+
+8)	What date/time (and time zone!) did the issue begin?
+
+9)	If this is a recurring problem, provide the date/time (and time zone!) of a specific instance of the problem:
+
+10)	What was the full error message displayed on the screen or in the logs?
+
+11)	What product versions and build # are being used?
+
+12)	If this issue impacts a virtual machine please provide the following details:
+
+	Guest Operating System Name: 
+	Guest Operating System Build #: 
+	VMware Tools Version: 
+	Virtual Machine Hardware Version: 
+	Virtual NIC Type: 
+
+13)	What are the steps to reproduce the problem?  
+
+14)	What troubleshooting steps have you performed prior to contacting VMware?
+
+15)	List the VMware KB articles you have reviewed prior to contacting VMware:
+
+16)	Please provide a brief description of each screenshot/video you attached to the case:
+
+17)	What is the business impact of this problem?
+
+	Environments Impacted?
+	How many users are impacted?
+	Is this causing a total work stoppage or a partial work stoppage?
+	Revenue Generating Event?
+
+	
