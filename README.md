@@ -2,8 +2,8 @@
 SR Templates to provide to TSE for best possible SR experience.
 
 ## SR Template
-- [SR Template](.docx)
-- [SR Template - Text - Copy and Paste right into SR](.txt)
+- [SR Template - docx](https://github.com/mattputhoff/HugYourTSE/blob/main/SR%20Template%20for%20VMware%20Support%20Requests.docx)
+- [SR Template - Text - Copy and Paste right into SR](https://github.com/mattputhoff/HugYourTSE/blob/main/SR_Template_for_VMware_Support_Requests.txt)
 
 ## GSS & SR Resources
 - [VMware Blogs - Author: Andrew Klopp](https://blogs.vmware.com/kb/author/aklopp)
